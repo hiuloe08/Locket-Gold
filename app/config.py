@@ -1,7 +1,7 @@
 import os
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-NEXTDNS_KEY = os.environ.get("NEXTDNS_KEY", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7894746849:AAE40V9mVJ2mUzJucCnj9Dl_E_poBflZAqo")
+NEXTDNS_KEY = os.environ.get("NEXTDNS_KEY", "c5e16828f4f47b0da0b4633319a4b694d5f8a630")
 
 TOKEN_SETS = [
     {
@@ -20,7 +20,7 @@ TOKEN_SETS = [
     },
 ]
 
-ADMIN_ID = 6581326766
+ADMIN_ID = 6232287791
 NUM_WORKERS = 2
 DONATE_PHOTO = "AgACAgUAAxkBAAEhBOdpjtu4_D_90mzmM3ax-jLUQbW7HwACjA5rGyK6eFQz2Vzy6zHTMwEAAwIAA3kAAzoE"
 
